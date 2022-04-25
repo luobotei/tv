@@ -1,10 +1,10 @@
 {
-		"key": "555电影",
-		"name": "555电影",
-		"type": 3,
-		"api": "555电影",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://github.com/luobotei/tv/blob/main/555DY.json"
-	}
+      "key": "csp_xpath_94sm",
+      "name": "94神马(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/94sm.json"
+    }
