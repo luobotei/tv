@@ -1,0 +1,22 @@
+{
+	"sites": [{
+		"key": "555电影",
+		"name": "555电影",
+		"type": 3,
+		"api": "555电影",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "https://github.com/luobotei/tv/blob/readme-edits/555DY.json"
+	}],
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "redirect",
+			"urls": [
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
+			]
+		}]
+	}]
+
+}
